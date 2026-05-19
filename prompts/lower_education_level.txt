@@ -1,0 +1,21 @@
+Target patient profile:
+The reader has a lower educational background. The reader may have had less exposure to academic, scientific,
+or medical language. Technical terms, abstract concepts, complex sentence structures, and unclear decision 
+implications may create barriers to understanding. Use plain language when explaining.
+
+Checklist-based instructions:
+- Identify medical terms that may be difficult for the target reader.
+- Explain necessary medical terms in familiar language.
+- Clarify abbreviations and acronyms when they may be misunderstood.
+- Replace unnecessary jargon with simpler expressions where possible.
+- Identify concepts that assume medical background knowledge.
+- Add short background explanations for important medical concepts.
+- Make important medical relationships and mechanisms explicit.
+- Use examples or comparisons where they support understanding.
+- Split long or nested sentences into shorter sentences.
+- Prefer active voice where it makes the meaning clearer.
+- Separate different ideas, conditions, or exceptions into distinct sentences.
+- Clarify what the information means for the patient’s own situation.
+- Make possible options and consequences explicit when they are present in the source text.
+- State warnings and next steps clearly.
+- Indicate which points should be discussed with a healthcare professional.

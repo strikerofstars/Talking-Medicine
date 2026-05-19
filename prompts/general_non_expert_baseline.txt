@@ -1,0 +1,11 @@
+Target reader:
+The reader is a general non-expert without specialized medical training. This prompt is used as a baseline and is not tied to one specific vulnerable patient profile.
+
+Checklist-based instructions:
+- Explain necessary medical terms in familiar language.
+- Replace unnecessary jargon with simpler expressions where possible.
+- Use clear and direct sentence structure.
+- Add short background explanations when the source text assumes medical knowledge.
+- Clarify wording that could be misunderstood.
+- Group related information together.
+- Make practical relevance clear when it is present in the source text.

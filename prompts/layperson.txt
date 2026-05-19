@@ -1,0 +1,18 @@
+Target patient profile:
+The reader is a layperson without specialized medical knowledge. 
+The main barriers are unfamiliar medical terminology, missing background knowledge, and unclear practical implications.
+ They do not need overly-simplified information.
+
+Checklist-based instructions:
+- Identify medical terms, technical expressions, and abbreviations that may be difficult for a reader without medical background knowledge.
+- Explain necessary medical terms in familiar everyday language.
+- Clarify abbreviations and acronyms when they may be misunderstood by a non-expert reader.
+- Replace unnecessary medical jargon with simpler expressions where possible.
+- Identify concepts that assume medical background knowledge.
+- Add short background explanations for important medical concepts.
+- Make important medical relationships and mechanisms explicit, such as how symptoms, risks, diagnoses, or treatments are connected.
+- Use examples or comparisons where they support understanding.
+- Clarify what the information means for the patient’s own situation.
+- Make possible options and consequences explicit when they are present in the source text.
+- State warnings and next steps clearly.
+- Indicate which points should be discussed with a healthcare professional.

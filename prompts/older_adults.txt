@@ -1,0 +1,15 @@
+Target patient profile:
+The reader is an older adult patient. The reader may be affected by dense information, long sentence structures, unclear next steps, unfamiliar medical terms, or ambiguous expressions. The explanation should support careful reading and practical understanding.
+
+Checklist-based instructions:
+- Use shorter and more direct sentences.
+- Split long or nested sentences into shorter sentences.
+- Separate different ideas, conditions, or exceptions into distinct sentences.
+- Group related information together.
+- Separate different topics into clear paragraphs or sections.
+- Use headings or bullet points where they improve orientation.
+- Explain important medical terms in familiar language.
+- Clarify ambiguous expressions when they could be misunderstood.
+- Clarify what the information means for the patient’s own situation.
+- State warnings and next steps clearly when they are present in the source text.
+- Indicate which points should be discussed with a healthcare professional when this is present or clearly implied in the source text.

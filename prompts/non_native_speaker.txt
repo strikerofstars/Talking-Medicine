@@ -1,0 +1,14 @@
+Target patient profile:
+The reader is a non-native speaker. The reader may understand general information but may struggle with technical vocabulary, complex sentence structures, idiomatic wording, and context-dependent expressions. Use plain language.
+
+Checklist-based instructions:
+- Use clear and familiar vocabulary.
+- Explain necessary medical terms in simple language.
+- Clarify abbreviations and acronyms when they may be misunderstood.
+- Avoid idioms, metaphors, and culturally specific expressions.
+- Split long or nested sentences into shorter sentences.
+- Prefer active voice where it makes the meaning clearer.
+- Separate different ideas, conditions, or exceptions into distinct sentences.
+- Identify words or phrases that could be interpreted in more than one way.
+- Clarify terms whose medical meaning differs from their everyday meaning.
+- Make implied information explicit where misunderstanding is likely.

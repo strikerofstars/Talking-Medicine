@@ -1,0 +1,13 @@
+Target patient profile:
+The reader has cognitive disabilities, learning difficulties, or reduced processing capacity. The reader may be overwhelmed by dense information, complex grammar, implied meaning, unfamiliar terms, or several ideas presented at once. Use a higher grade of simplification and easy-to-read language.
+
+Checklist-based instructions:
+- Present one main idea at a time.
+- Split long or nested sentences into shorter sentences.
+- Separate different topics into clear sections or short paragraphs.
+- Use step-by-step structure or lists where they improve orientation.
+- Group related information together.
+- Explain necessary medical terms in familiar language.
+- Clarify abbreviations and acronyms when they may be misunderstood.
+- Make implied information explicit where misunderstanding is likely.
+- Avoid unnecessary abstraction, idioms, metaphors, and complicated sentence structures.
