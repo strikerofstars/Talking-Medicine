@@ -1,0 +1,17 @@
+{
+  "workflow": "medeasi_entire_batch",
+  "dataset": "Med-EASi",
+  "profile_name": "layperson",
+  "target_language": "English",
+  "split_length": 300,
+  "start_index": 0,
+  "end_index_exclusive": 300,
+  "number_of_examples": 300,
+  "source_col": "Expert",
+  "reference_col": "Simple",
+  "model_deployment": "gpt-4o",
+  "temperature": 0.2,
+  "max_tokens": 1600,
+  "api_calls_enabled": true,
+  "jsonl_path": "/content/outputs/runs/2026-05-18_153447_medeasi_entire_batch_layperson_english_entire_dataset/generations.jsonl"
+}

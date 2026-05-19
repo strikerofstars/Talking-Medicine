@@ -1,0 +1,18 @@
+{
+  "workflow": "medeasi_entire_batch",
+  "dataset": "Med-EASi",
+  "profile_name": "cognitive_disabilities",
+  "target_language": "English",
+  "split_length": 300,
+  "start_index": 0,
+  "end_index_exclusive": 300,
+  "number_of_examples": 300,
+  "source_col": "Expert",
+  "reference_col": "Simple",
+  "model_deployment": "gpt-4o",
+  "temperature": 0.2,
+  "max_tokens": 1600,
+  "api_calls_enabled": true,
+  "created_at": "2026-05-18T16:28:25.072613",
+  "jsonl_path": "/content/outputs/runs/2026-05-18_162825_medeasi_entire_batch_cognitive_disabilities_english_entire_dataset/generations.jsonl"
+}
